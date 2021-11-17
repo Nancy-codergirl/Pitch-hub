@@ -8,8 +8,8 @@ Pitch-hub is an application that allows a user to view different categories of p
 * Good internet connection
 
 ## How to use
-* Open the site - link [()
-* To view pitch;
+* Open the site using the deployed link.
+* To view pitch-hub;
     * Click on favorite category.
     * A list of all the pitches in order of recent submission appears.
 * To comment and vote for a pitch:
