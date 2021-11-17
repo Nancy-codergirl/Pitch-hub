@@ -1,5 +1,5 @@
 # Pitch Hub
-#### One minute pitch is an application that allows a user to view different categories of pitches. The user is allowed to comment and vote on the pitches. It also allows users to login and submit their pitches. A user can also favorite a pitch of their liking
+Pitch-hub is an application that allows a user to view different categories of pitches. The user is allowed to comment and vote on the pitches. It also allows users to login and submit their pitches. A user can also favorite a pitch of their liking
 
 #### By ****Nancy Muriithi****
 
