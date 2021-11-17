@@ -8,7 +8,7 @@
 * Good internet connection
 
 ## How to use
-* Open the site - link [here]()
+* Open the site - link [()
 * To view pitch;
     * Click on favorite category.
     * A list of all the pitches in order of recent submission appears.
