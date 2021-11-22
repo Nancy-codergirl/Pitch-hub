@@ -17,7 +17,7 @@ def index():
     product=Pitch.query.filter_by(category='product').all()
     promotion=Pitch.query.filter_by(category='promotion').all()      
     comments = Comment.query.filter_by(pitch_id=Pitch.id).all()     
-    title = 'One Minute Pitch'
+    title = 'PITCH-HUB'
     return render_template('index.html',title=title, comments=comments,
                                                      interview = interview,
                                                      inspiration=inspiration,
@@ -43,7 +43,7 @@ def create():
         #save pitch method
         new_pitch.save_pitch()
         return redirect(url_for('main.index'))
-    title = 'One Minute Pitch'
+    title = 'PITCH-HUB'
     return render_template('create.html',title=title,pitch_form=form)
 
 @main.route('/user/<uname>')
